@@ -34,7 +34,7 @@ async function initLive2d(config) {
   initWidget({
     modelPath: config.model_path,
     live2dPath: config.live2d_path,
-    tools: ["hitokoto", "switch-model", "photo", "info", "quit"]
+    tools: ["hitokoto", "switch-model", "switch-texture", "photo", "info", "quit"]
   });
 
   console.log(`
