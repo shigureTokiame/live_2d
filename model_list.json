@@ -5,7 +5,42 @@
                 "model_json": "Girl-Front-Line/g11_9/normal/normal.model3.json",
                 "born_tip": "G11~ 少女前线404... 好困...",
                 "model_scale": 0.3,
-                "center_y": 0.65,
+                "center_y": 0.5,
+                "showWaifuTips": false
+            },
+            {
+                "model_json": "Girl-Front-Line/g11_9/destroy/destroy.model3.json",
+                "born_tip": "G11~ 少女前线404... 好困...",
+                "model_scale": 0.3,
+                "center_y": 0.5,
+                "showWaifuTips": false
+            },
+            {
+                "model_json": "Girl-Front-Line/g11_1602/normal/normal.model3.json",
+                "born_tip": "G11~ 少女前线404... 好困...",
+                "model_scale": 0.3,
+                "center_y": 0.5,
+                "showWaifuTips": false
+            },
+            {
+                "model_json": "Girl-Front-Line/g11_1602/destroy/destroy.model3.json",
+                "born_tip": "G11~ 少女前线404... 好困...",
+                "model_scale": 0.3,
+                "center_y": 0.5,
+                "showWaifuTips": false
+            },
+            {
+                "model_json": "Girl-Front-Line/g11_4102/normal/normal.model3.json",
+                "born_tip": "G11~ 少女前线404... 好困...",
+                "model_scale": 0.3,
+                "center_y": 0.5,
+                "showWaifuTips": false
+            },
+            {
+                "model_json": "Girl-Front-Line/g11_4102/destroy/destroy.model3.json",
+                "born_tip": "G11~ 少女前线404... 好困...",
+                "model_scale": 0.3,
+                "center_y": 0.5,
                 "showWaifuTips": false
             }
         ],
