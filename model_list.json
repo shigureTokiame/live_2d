@@ -4,7 +4,9 @@
             {
                 "model_json": "Girl-Front-Line/g11_9/normal/normal.model3.json",
                 "born_tip": "G11~ 少女前线404... 好困...",
-                "model_scale": 0.1
+                "model_scale": 0.3,
+                "center_y": 0.65,
+                "showWaifuTips": false
             }
         ],
         [
