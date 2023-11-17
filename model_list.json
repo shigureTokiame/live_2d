@@ -3,7 +3,8 @@
         [
             {
                 "model_json": "Girl-Front-Line/g11_9/normal/normal.model3.json",
-                "born_tip": "G11~ 少女前线404... 好困..."
+                "born_tip": "G11~ 少女前线404... 好困...",
+                "model_scale": 0.4
             }
         ],
         [
@@ -63,62 +64,35 @@
         ],
         [
             {
-                "model_json": "Houkai-Gakuen2/bachongying/model.json",
-                "model_scale": 0.3,
-                "center_y": 0.3,
-                "timingInterval": 300000,
-                "showWaifuTips": false
-            }
-        ],
-        [
-            {
-                "model_json": "HyperdimensionNeptunia/histoire/model.json",
-                "model_scale": 0.6,
-                "center_y": -0.20,
-                "born_tip": "Nep! Nep! 超次元游戏：海王星 系列"
-            }
-        ],
-        [
-            {
                 "model_json": "HyperdimensionNeptunia/nepgear/model.json",
                 "model_scale": 0.28,
                 "center_y": -0.4,
                 "born_tip": "Nep! Nep! 超次元游戏：海王星 系列"
-            }
-        ],
-        [
+            },
             {
                 "model_json": "HyperdimensionNeptunia/nepgear_extra/model.json",
                 "model_scale": 0.28,
                 "center_y": -0.4,
                 "born_tip": "Nep! Nep! 超次元游戏：海王星 系列"
-            }
-        ],
-        [
+            },
             {
                 "model_json": "HyperdimensionNeptunia/nepgearswim/model.json",
                 "model_scale": 0.28,
                 "center_y": -0.4,
                 "born_tip": "Nep! Nep! 超次元游戏：海王星 系列"
-            }
-        ],
-        [
+            },
             {
                 "model_json": "HyperdimensionNeptunia/nepmaid/model.json",
                 "model_scale": 0.3,
                 "center_y": -0.2,
                 "born_tip": "Nep! Nep! 超次元游戏：海王星 系列"
-            }
-        ],
-        [
+            },
             {
                 "model_json": "HyperdimensionNeptunia/neptune_santa/model.json",
                 "model_scale": 0.3,
                 "center_y": -0.3,
                 "born_tip": "Nep! Nep! 超次元游戏：海王星 系列"
-            }
-        ],
-        [
+            },
             {
                 "model_json": "HyperdimensionNeptunia/nepswim/model.json",
                 "model_scale": 0.3,
