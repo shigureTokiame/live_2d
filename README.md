@@ -1,2 +1,2 @@
-# live_2d
-看板娘~
+# live2d
+live2d-web
