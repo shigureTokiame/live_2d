@@ -134,7 +134,7 @@ function loadWidget(config) {
 }
 
 function initWidget(config) {
-    document.body.insertAdjacentHTML("beforeend", `<div id="waifu"><div id="waifu-tips"></div><canvas id="live2d"></canvas><div id="waifu-tool"></div></div>`);
+    document.body.insertAdjacentHTML("beforeend", `<div id="waifu"><div id="waifu-tips"></div><canvas id="live2d" width="480" height="600"></canvas><div id="waifu-tool"></div></div>`);
     document.body.insertAdjacentHTML("beforeend", '<div id="waifu-toggle"><span>看板娘</span></div>');
     const toggle = document.getElementById("waifu-toggle");
     toggle.addEventListener("click", () => {
