@@ -1,7 +1,7 @@
 #live2d {
 	position: relative;
-	height: 610px !important;
-	height: 480px !important;
+	height: 300px !important;
+	width: 240px !important;
 }
 
 #live2d:active {
