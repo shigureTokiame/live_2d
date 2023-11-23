@@ -23,7 +23,7 @@
 		],
 		"tap_face": [
 			{
-				"file": "motions/6.mtn",
+				"file": "motions/1.mtn",
 				"sound": "sound/yazakura_live2d_002.mp3",
 				"text": "从你的手可以感觉到柔和的温暖......",
 				"sound_delay": -2
@@ -39,7 +39,7 @@
 		],
 		"tap_belly": [
 			{
-				"file": "motions/7.mtn",
+				"file": "motions/6.mtn",
 				"sound": "sound/yazakura_live2d_003.mp3",
 				"text": "唔......！不许碰那里！",
 				"sound_delay": -2
