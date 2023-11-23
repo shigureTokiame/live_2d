@@ -17,7 +17,7 @@
 			{
 				"file": "motions/2.mtn",
 				"sound": "sound/yazakura_live2d_002.mp3",
-				"text": "从汝的手心可以感觉到柔和的温暖......",
+				"text": "想摸耳朵吗......唔......很舒服......",
 				"sound_delay": -2
 			}
 		],
@@ -25,7 +25,7 @@
 			{
 				"file": "motions/2.mtn",
 				"sound": "sound/yazakura_live2d_002.mp3",
-				"text": "从汝的手心可以感觉到柔和的温暖......",
+				"text": "从你的手可以感觉到柔和的温暖......",
 				"sound_delay": -2
 			}
 		],
@@ -33,15 +33,15 @@
 			{
 				"file": "motions/3.mtn",
 				"sound": "sound/yazakura_live2d_003.mp3",
-				"text": "唔......！不许碰那里！",
+				"text": "你想做什么！",
 				"sound_delay": -2
 			}
 		],
 		"tap_belly": [
 			{
-				"file": "motions/4.mtn",
-				"sound": "sound/yazakura_live2d_004.mp3",
-				"text": "不要摸吾，吾正在吃饭团！",
+				"file": "motions/3.mtn",
+				"sound": "sound/yazakura_live2d_003.mp3",
+				"text": "唔......！不许碰那里！",
 				"sound_delay": -2
 			}
 		],
@@ -49,7 +49,7 @@
 			{
 				"file": "motions/4.mtn",
 				"sound": "sound/yazakura_live2d_004.mp3",
-				"text": "不要摸吾，吾正在吃饭团！",
+				"text": "不要打扰我，我在吃饭团。",
 				"sound_delay": -2
 			}
 		],
@@ -57,7 +57,7 @@
 			{
 				"file": "motions/5.mtn",
 				"sound": "sound/yazakura_live2d_005.mp3",
-				"text": "汝相信神明吗？",
+				"text": "你相信神明吗？",
 				"sound_delay": -2
 			}
 		],
@@ -65,13 +65,25 @@
 			{
 				"file": "motions/5.mtn",
 				"sound": "sound/yazakura_live2d_005.mp3",
-				"text": "汝相信神明吗？",
+				"text": "据说......有好多东西被...... “删除” 了？",
 				"sound_delay": -2
 			},
 			{
 				"file": "motions/6.mtn",
 				"sound": "sound/yazakura_live2d_006.mp3",
-				"text": "汝要吃饭团吗？",
+				"text": "要吃点饭团吗？我做了很多。",
+				"sound_delay": -2
+			},
+			{
+				"file": "motions/6.mtn",
+				"sound": "sound/yazakura_live2d_006.mp3",
+				"text": "这些东西......是文章吗？可我看不懂......",
+				"sound_delay": -2
+			},
+			{
+				"file": "motions/5.mtn",
+				"sound": "sound/yazakura_live2d_005.mp3",
+				"text": "稍微休息一下吧......",
 				"sound_delay": -2
 			}
 		],
