@@ -15,7 +15,7 @@
 		],
 		"tap_head": [
 			{
-				"file": "motions/4.mtn",
+				"file": "motions/1.mtn",
 				"sound": "sound/yazakura_live2d_001.mp3",
 				"text": "你喜欢樱花吗？",
 				"sound_delay": -2
@@ -49,11 +49,17 @@
 				"sound": "sound/yazakura_live2d_007.mp3",
 				"text": "对于经历过修行的我来说，这种程度根本不足为惧",
 				"sound_delay": -2
+			},
+			{
+				"file": "motions/6.mtn",
+				"sound": "sound/yazakura_live2d_006.mp3",
+				"text": "要吃饭团吗？",
+				"sound_delay": -2
 			}
 		],
 		"tap_leg": [
 			{
-				"file": "motions/2.mtn",
+				"file": "motions/6.mtn",
 				"sound": "sound/yazakura_live2d_006.mp3",
 				"text": "要吃饭团吗？",
 				"sound_delay": -2
