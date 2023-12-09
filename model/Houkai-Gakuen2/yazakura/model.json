@@ -15,15 +15,15 @@
 		],
 		"tap_head": [
 			{
-				"file": "motions/2.mtn",
-				"sound": "sound/yazakura_live2d_002.mp3",
-				"text": "想摸耳朵吗......唔......很舒服......",
+				"file": "motions/4.mtn",
+				"sound": "sound/yazakura_live2d_001.mp3",
+				"text": "你喜欢樱花吗？",
 				"sound_delay": -2
 			}
 		],
 		"tap_face": [
 			{
-				"file": "motions/1.mtn",
+				"file": "motions/2.mtn",
 				"sound": "sound/yazakura_live2d_002.mp3",
 				"text": "从你的手可以感觉到柔和的温暖......",
 				"sound_delay": -2
@@ -31,25 +31,31 @@
 		],
 		"tap_breast": [
 			{
-				"file": "motions/3.mtn",
-				"sound": "sound/yazakura_live2d_003.mp3",
-				"text": "你想做什么！",
+				"file": "motions/4.mtn",
+				"sound": "sound/yazakura_live2d_004.mp3",
+				"text": "不许碰，现在给我拿开！",
 				"sound_delay": -2
-			}
-		],
-		"tap_belly": [
+			},
 			{
-				"file": "motions/6.mtn",
+				"file": "motions/3.mtn",
 				"sound": "sound/yazakura_live2d_003.mp3",
 				"text": "唔......！不许碰那里！",
 				"sound_delay": -2
 			}
 		],
+		"tap_belly": [
+			{
+				"file": "motions/7.mtn",
+				"sound": "sound/yazakura_live2d_007.mp3",
+				"text": "对于经历过修行的我来说，这种程度根本不足为惧",
+				"sound_delay": -2
+			}
+		],
 		"tap_leg": [
 			{
-				"file": "motions/4.mtn",
-				"sound": "sound/yazakura_live2d_004.mp3",
-				"text": "不要打扰我，我在吃饭团。",
+				"file": "motions/2.mtn",
+				"sound": "sound/yazakura_live2d_006.mp3",
+				"text": "要吃饭团吗？",
 				"sound_delay": -2
 			}
 		],
@@ -63,26 +69,22 @@
 		],
 		"timing": [
 			{
-				"file": "motions/5.mtn",
-				"sound": "sound/yazakura_live2d_005.mp3",
+				"file": "motions/1.mtn",
 				"text": "据说......有好多东西被...... “删除” 了？",
 				"sound_delay": -2
 			},
 			{
-				"file": "motions/1.mtn",
-				"sound": "sound/yazakura_live2d_006.mp3",
+				"file": "motions/2.mtn",
 				"text": "要吃点饭团吗？我做了很多。",
 				"sound_delay": -2
 			},
 			{
-				"file": "motions/6.mtn",
-				"sound": "sound/yazakura_live2d_006.mp3",
+				"file": "motions/7.mtn",
 				"text": "这些东西......是文章吗？可我看不懂......",
 				"sound_delay": -2
 			},
 			{
-				"file": "motions/5.mtn",
-				"sound": "sound/yazakura_live2d_005.mp3",
+				"file": "motions/2.mtn",
 				"text": "稍微休息一下吧......",
 				"sound_delay": -2
 			}
