@@ -15,7 +15,7 @@
 		],
 		"tap_head": [
 			{
-				"file": "motions/1.mtn",
+				"file": "motions/6.mtn",
 				"sound": "sound/yazakura_live2d_001.mp3",
 				"text": "你喜欢樱花吗？",
 				"sound_delay": -2
@@ -26,6 +26,12 @@
 				"file": "motions/2.mtn",
 				"sound": "sound/yazakura_live2d_002.mp3",
 				"text": "从你的手可以感觉到柔和的温暖......",
+				"sound_delay": -2
+			},
+			{
+				"file": "motions/5.mtn",
+				"sound": "sound/yazakura_live2d_005.mp3",
+				"text": "你相信神明吗？",
 				"sound_delay": -2
 			}
 		],
@@ -57,14 +63,6 @@
 				"sound_delay": -2
 			}
 		],
-		"tap_leg": [
-			{
-				"file": "motions/6.mtn",
-				"sound": "sound/yazakura_live2d_006.mp3",
-				"text": "要吃饭团吗？",
-				"sound_delay": -2
-			}
-		],
 		"born": [
 			{
 				"file": "motions/5.mtn",
@@ -80,12 +78,12 @@
 				"sound_delay": -2
 			},
 			{
-				"file": "motions/2.mtn",
+				"file": "motions/6.mtn",
 				"text": "要吃点饭团吗？我做了很多。",
 				"sound_delay": -2
 			},
 			{
-				"file": "motions/7.mtn",
+				"file": "motions/5.mtn",
 				"text": "这些东西......是文章吗？可我看不懂......",
 				"sound_delay": -2
 			},
